@@ -11,6 +11,8 @@ of my team's project. <br />
 
 The frontend was provided to us by the course lecturer.  <br />
 
+For more information, check the Project_Spec.md in the project-backend folder  <br />.
+
 ## How to Run
 To run this app, simply go into the project folder and run this command into the shell  <br />
 #### `python3 server.py`
